@@ -1,5 +1,5 @@
 # SVM_based_Searchlight
-Matlab code for SVM based searchlight analysis   
+Matlab code for support vector machine (SVM) based searchlight analysis   
   
 PSOM (https://github.com/PSOM) is needed to run this program.  
   
